@@ -1,2 +1,2 @@
 # Sluralpright
-A Pluralsight login page clone made using HTML, CSS and JavaScript!
+A Pluralsight login page clone made using HTML and CSS!
